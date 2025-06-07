@@ -1,17 +1,5 @@
 # **Samuel Asante - IT Security Consultant Portfolio (React.js)**
 
-Here's a **secure, animated, and fully deployable** React.js portfolio with all your requirements:
-
-## **🚀 Features**
-- ✅ **Working Contact Form** (with FormSubmit)
-- ✅ **Interactive Project Gallery**
-- ✅ **Dark/Light Mode Toggle**
-- ✅ **Animated Components** (Framer Motion)
-- ✅ **Responsive Design** (Mobile-friendly)
-- ✅ **Profile Picture Integration**
-- ✅ **Certification Showcase**
-- ✅ **11 Detailed Projects**
-
 ---
 
 ## **📂 Project Structure**
@@ -210,26 +198,3 @@ export default function Projects() {
    git push origin main
    ```
 
-2. **Netlify:**
-   - Go to [Netlify](https://app.netlify.com)
-   - Drag & drop your repo
-   - Site will be live at `samuel-asante.netlify.app`
-
-3. **Vercel:**
-   ```bash
-   npm install -g vercel
-   vercel
-   ```
-
----
-
-## **🔒 Security Enhancements**
-1. **FormSubmit Encryption** (free tier)
-2. **CSP Headers** (in `public/index.html`)
-3. **HTTPS Enforcement** (automatic on Netlify/Vercel)
-4. **React Security Best Practices** (XSS protection built-in)
-
-Would you like me to add:
-1. **Password Protection** for sensitive case studies?
-2. **Google Analytics** integration?
-3. **PDF Resume Download** button?
